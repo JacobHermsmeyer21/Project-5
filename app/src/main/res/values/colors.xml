@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="journal_background">#F6F9F6</color>
+    <color name="journal_ink">#17382D</color>
+    <color name="journal_muted">#62796E</color>
+    <color name="journal_accent">#177A58</color>
+    <color name="journal_accent_light">#DDF1E6</color>
+    <color name="journal_border">#DCE8DF</color>
+</resources>

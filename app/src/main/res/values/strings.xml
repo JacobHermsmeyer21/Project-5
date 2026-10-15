@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Water Journal</string>
+    <string name="home_title">Stay hydrated.</string>
+    <string name="home_subtitle">A simple record of what you drink each day.</string>
+    <string name="today_label">TODAY</string>
+    <string name="initial_total">0 ml</string>
+    <string name="today_total_format">%,d ml</string>
+    <string name="today_description">Total water logged today</string>
+    <string name="add_entry_button">+ Log water</string>
+    <string name="history_title">Your entries</string>
+    <string name="empty_history">No entries yet. Log your first drink to start your history.</string>
+    <string name="add_entry_title">Log water</string>
+    <string name="add_entry_prompt">How much water did you drink? This entry will be saved with the current date and time.</string>
+    <string name="amount_hint">Amount (ml)</string>
+    <string name="note_hint">Note (optional)</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_entry">Save</string>
+    <string name="invalid_amount">Enter an amount from 1 to 10,000 ml</string>
+    <string name="entry_saved">Entry saved</string>
+    <string name="entry_amount_format">%,d ml</string>
+</resources>
